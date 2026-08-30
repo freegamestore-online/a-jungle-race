@@ -1,5 +1,5 @@
 {
-  "name": "@APPNAME/web",
+  "name": "@a-jungle-race/web",
   "private": true,
   "type": "module",
   "scripts": {
